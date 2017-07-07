@@ -5,7 +5,8 @@
 			"image": [
 				"https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/ffffc8562f8018dd61071c48384ff2b62a1df050/images/avatar_low.png"
 			],
-			"id": "2"
+			"id": "2",
+			"description": "Description de Avatar low"
 		},
 		{
 			"name": "Fantasy",
