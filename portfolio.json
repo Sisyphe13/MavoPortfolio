@@ -13,6 +13,17 @@
 					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/745852fb0f0cc73f1edb3ac937099f6c251b937b/images/avatar_low.png"
 				}
 			]
+		},
+		{
+			"name": "Oeuvre",
+			"images": [
+				{
+					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/33e97cd54e7b50b022bb2938039bd1ce6a707fdd/images/Avatar_DS_Zelda_YoaLink.gif",
+					"caption": "Caption Oeuvre"
+				}
+			],
+			"description": "Description de Oeuvre",
+			"id": "1"
 		}
 	]
 }
