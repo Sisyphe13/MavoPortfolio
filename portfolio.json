@@ -6,6 +6,14 @@
 				"https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/ffffc8562f8018dd61071c48384ff2b62a1df050/images/avatar_low.png"
 			],
 			"id": "1"
+		},
+		{
+			"name": "Fantasy",
+			"image": [
+				"https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/c1daaf4941e56fdc7de4130c81b5de3bfcc95b5b/images/0b01aa36b7b788aa0c045b02e22c907f.jpeg",
+				"https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/4d1ed7e47519acdc1e89dfef68fceb3c26793010/images/1_1x.jpeg"
+			],
+			"id": "1"
 		}
 	]
 }
