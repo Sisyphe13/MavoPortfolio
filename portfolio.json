@@ -5,7 +5,8 @@
 			"image": [
 				"https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/ffffc8562f8018dd61071c48384ff2b62a1df050/images/avatar_low.png"
 			],
-			"id": "3"
+			"id": "3",
+			"description": "Description de Avatar low"
 		},
 		{
 			"name": "Fantasy",
@@ -13,14 +14,16 @@
 				"https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/c1daaf4941e56fdc7de4130c81b5de3bfcc95b5b/images/0b01aa36b7b788aa0c045b02e22c907f.jpeg",
 				"https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/4d1ed7e47519acdc1e89dfef68fceb3c26793010/images/1_1x.jpeg"
 			],
-			"id": "2"
+			"id": "2",
+			"description": "Description de Fantasy"
 		},
 		{
 			"name": "Queen\n",
 			"image": [
 				"https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/6091096023d95b82af92495051ced4321ee0ef4f/images/0eb868bf60323996390ccaa73bc57e7b.jpeg"
 			],
-			"id": "1"
+			"id": "1",
+			"description": "Description de Queen\n"
 		}
 	]
 }
