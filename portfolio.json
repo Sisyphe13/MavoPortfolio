@@ -9,7 +9,8 @@
 			"description": "Description de Avatar low",
 			"images": [
 				{
-					"caption": "Avatar low"
+					"caption": "Avatar low",
+					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/3510a6ea382e77aeb3b253f8aeb105fb92525144/images/avatar_low.png"
 				}
 			]
 		},
