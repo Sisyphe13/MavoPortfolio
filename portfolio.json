@@ -10,34 +10,7 @@
 			"images": [
 				{
 					"caption": "Avatar low",
-					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/3510a6ea382e77aeb3b253f8aeb105fb92525144/images/avatar_low.png"
-				}
-			]
-		},
-		{
-			"name": "Fantasy",
-			"image": [
-				"https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/c1daaf4941e56fdc7de4130c81b5de3bfcc95b5b/images/0b01aa36b7b788aa0c045b02e22c907f.jpeg",
-				"https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/4d1ed7e47519acdc1e89dfef68fceb3c26793010/images/1_1x.jpeg"
-			],
-			"id": "2",
-			"description": "Description de Fantasy",
-			"images": [
-				{
-					"caption": "Fantasy"
-				}
-			]
-		},
-		{
-			"name": "Queen\n",
-			"image": [
-				"https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/6091096023d95b82af92495051ced4321ee0ef4f/images/0eb868bf60323996390ccaa73bc57e7b.jpeg"
-			],
-			"id": "1",
-			"description": "Description de Queen\n",
-			"images": [
-				{
-					"caption": "Queen\n"
+					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/745852fb0f0cc73f1edb3ac937099f6c251b937b/images/avatar_low.png"
 				}
 			]
 		}
