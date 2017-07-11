@@ -30,13 +30,14 @@
 			"images": [
 				{
 					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/9dd4e890d614ab5c27e35b3202ea13b036e905ee/images/Caliban_Affiche.jpg",
-					"caption": "Caption "
+					"caption": "Caption Man In Shakespeare\n"
 				}
 			],
 			"description": [
-				"Description de "
+				"Description de Man In Shakespeare\n"
 			],
-			"id": "1"
+			"id": "1",
+			"name": "Man In Shakespeare\n"
 		}
 	],
 	"apropos-title": "Designer Graphique - Illustratrice - Poster Art",
