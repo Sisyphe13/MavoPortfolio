@@ -16,14 +16,15 @@
 		{
 			"images": [
 				{
-					"caption": "Caption ",
+					"caption": "Caption Programmation de Saison",
 					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/66b759a9b6fd119d02e63ede0a1755beeb7979f2/images/affiche-programme-de-saison.jpeg"
 				}
 			],
 			"description": [
-				"Description de "
+				"Description de Programmation de Saison"
 			],
-			"id": "1"
+			"id": "1",
+			"name": "Programmation de Saison"
 		}
 	]
 }
