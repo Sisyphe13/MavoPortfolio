@@ -6,75 +6,13 @@
 				"https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/ffffc8562f8018dd61071c48384ff2b62a1df050/images/avatar_low.png"
 			],
 			"id": "5",
-			"description": [
-				"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat"
-			],
+			"description": [],
 			"images": [
 				{
 					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/362a51ccaf10b958dcaf91de592985c2003c986e/images/43d08c4fb2e82561eb0cb9c9278d283e164f6ce6.jpg",
 					"caption": "Caption Avatar low"
-				},
-				{
-					"caption": "Avatar low",
-					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/745852fb0f0cc73f1edb3ac937099f6c251b937b/images/avatar_low.png"
 				}
 			]
-		},
-		{
-			"name": "Oeuvre",
-			"images": [
-				{
-					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/cde87ae77930190a2ea7a7e6d53f66e43077f789/images/UDMetal.gif",
-					"caption": "Caption Oeuvre"
-				}
-			],
-			"description": [
-				"Description de Oeuvre"
-			],
-			"id": "4"
-		},
-		{
-			"name": "Blabla",
-			"images": [
-				{
-					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/a48c9de25fb3585e149567f6bc29c9ecc0781d3f/images/Kyubi.gif",
-					"caption": "Caption Blabla"
-				},
-				{
-					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/a69faad2eac83e5b1c4e64fa03060316a9c6841a/images/Naruto%20-%20Epidode%2066-67%20-%2002.gif",
-					"caption": "Caption Blabla"
-				}
-			],
-			"description": [
-				"Description de Blabla"
-			],
-			"id": "3"
-		},
-		{
-			"name": "Nom",
-			"images": [
-				{
-					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/466502d746f97facbc019370546dd7c67edbb703/images/tmc01.gif",
-					"caption": "Caption Nom"
-				}
-			],
-			"description": [
-				"Description de Nom"
-			],
-			"id": "2"
-		},
-		{
-			"name": "Truc",
-			"images": [
-				{
-					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/a41794d5899f9deec197cbac510ce29c73c730e3/images/Naruto%20-%20Epidode%2066-67.gif",
-					"caption": "Caption Truc"
-				}
-			],
-			"description": [
-				"Description de Truc"
-			],
-			"id": "1"
 		}
 	]
 }
