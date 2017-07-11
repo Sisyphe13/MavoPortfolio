@@ -40,18 +40,19 @@
 			"name": "Man In Shakespeare\n"
 		},
 		{
+			"name": "Vengeance - Estampe",
 			"images": [
 				{
 					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/84960d9a0333f237fb1e1c564d0fcaa004b26a7a/images/Vengeance.png",
-					"caption": "Caption "
+					"caption": "Caption Vengeance - Estampe"
 				},
 				{
 					"url": "https://cdn.rawgit.com/Sisyphe13/MavoPortfolio/ce751bd9b4ca2820a28a9377ab7b4162d196c6b9/images/Veng-lino.png",
-					"caption": "Caption "
+					"caption": "Caption Vengeance - Estampe"
 				}
 			],
 			"description": [
-				"Description de "
+				"Description de Vengeance - Estampe"
 			],
 			"id": "1"
 		}
